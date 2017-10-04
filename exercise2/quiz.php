@@ -7,7 +7,7 @@ echo "Name: " . $name . "<br>";
 echo "Email: " . $email . "<br>";
 */
 
-$answer1 = $_POST["q1"]; //If it is checked, it will equal on. Else, it will be blank. This is unless the value is set.
+$answer1 = $_POST["q1"];
 $answer2 = $_POST["q2"];
 $answer3 = $_POST["q3"];
 $answer4 = $_POST["q4"];
